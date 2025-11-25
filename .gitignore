@@ -1,0 +1,20 @@
+.vscode
+CSS_HTML
+cvtestenv
+__pycache__
+CSS
+files.py
+moveDatabase.sql
+
+#Testing files won't be included
+testingFile.py
+testing_CV.py
+newTest.py
+
+#Old demonstration code, outdated
+makeVideo.py
+learnToDraw.py
+
+#In progress demonstration code
+Neurons.py
+movingPix.py
